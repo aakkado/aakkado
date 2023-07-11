@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aakkado
-- 👀 I’m interested in Data Science, Full Stack Development
+- 👀 I’m interested in Data Science, Full Stack and Software Development
 - 🌱 I’m currently learning Python, Java, C/C++, HTML, CSS and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
