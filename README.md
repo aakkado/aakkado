@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aakkado
-- 👀 I’m interested in Data Science, Full Stack and Software Development
+- 👀 I’m interested in Data Science, Full Stack, Software and Game Development
 - 🌱 I’m currently learning Python, Java, C/C++, HTML, CSS, JavaScript, TypeScript, ReactJS and NextJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @lopes.wmv on Instagram and @aakkado on Twitter
 
 <!---
 aakkado/aakkado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
