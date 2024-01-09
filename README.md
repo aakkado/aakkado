@@ -15,17 +15,15 @@
 
  
  ### Main skills:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=E685AE)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=E685AE)&nbsp;
-![Spark](https://img.shields.io/badge/Spark-3670A0?style=for-the-badge&logo=apachespark&logoColor=E685AE)&nbsp;
-![C++](https://img.shields.io/badge/C++-3670A0?style=for-the-badge&logo=cpp&logoColor=E685AE)&nbsp;
-
-
+![Java](https://img.shields.io/badge/Java-E685AE?style=for-the-badge&logo=openjdk&logoColor=000000)&nbsp;
+![Python](https://img.shields.io/badge/python-E685AE?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Spark](https://img.shields.io/badge/Spark-E685AE?style=for-the-badge&logo=apachespark&logoColor=ffdd54)&nbsp;
+![C++](https://img.shields.io/badge/C++-E685AE?style=for-the-badge&logo=cpp&logoColor=ffdd54)&nbsp;
 
 
 ### Studying in this moment:
-![R](https://img.shields.io/badge/-E0DFE6?style=for-the-badge&logo=R&logoColor=E685AE)&nbsp;
-![C++](https://img.shields.io/badge/C++-3670A0?style=for-the-badge&logo=cpp&logoColor=E685AE)&nbsp;
+![R](https://img.shields.io/badge/-E685AE?style=for-the-badge&logo=R&logoColor=ffdd54)&nbsp;
+![C++](https://img.shields.io/badge/C++-E685AE?style=for-the-badge&logo=cpp&logoColor=ffdd54)&nbsp;
 
 
 <div align="center">
