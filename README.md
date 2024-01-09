@@ -21,7 +21,7 @@
 
 
 ### Studying in this moment:
-![R](https://img.shields.io/badge/?style=for-the-badge&logo=R&labelColor=0D1117)&nbsp;
+![R](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=R&logoColor=ffffff)&nbsp;
 
 
 <div align="center">
