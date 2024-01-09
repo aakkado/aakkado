@@ -17,7 +17,7 @@
  ### Main skills:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=000000)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Spark](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=spark&logoColor=ffdd54)&nbsp;
+![Spark](https://img.shields.io/badge/Spark-3670A0?style=for-the-badge&logo=spark&logoColor=ffdd54)&nbsp;
 
 
 
