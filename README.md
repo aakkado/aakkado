@@ -18,7 +18,7 @@
 ![Java](https://img.shields.io/badge/Java-E685AE?style=for-the-badge&logo=openjdk&logoColor=000000)&nbsp;
 ![Python](https://img.shields.io/badge/python-E685AE?style=for-the-badge&logo=python&logoColor=000000)&nbsp;
 ![Spark](https://img.shields.io/badge/Spark-E685AE?style=for-the-badge&logo=apachespark&logoColor=000000)&nbsp;
-![C++](https://img.shields.io/badge/C++-E685AE?style=for-the-badge&logo=cpp&logoColor=000000)&nbsp;
+![C](https://img.shields.io/badge/C++-E685AE?style=for-the-badge&logo=c&logoColor=000000)&nbsp;
 
 
 ### Studying in this moment:
